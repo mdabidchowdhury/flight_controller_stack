@@ -1,0 +1,8 @@
+*-backups/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+fp-info-cache
+*.lck
+_autosave-*
+*.kicad_prl
+fabrication-toolkit-options.json
